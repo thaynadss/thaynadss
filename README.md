@@ -6,9 +6,9 @@ My name is Thayna and I'm a front-end developer from 🇧🇷
 
 - 📚  I started a technologist in System Analysis and Development in 2020
 - 💻  In 2021, I started to study front-end development and now I'm a Javascript lover
-- 👩🏽‍💻  Currently, I'm studying and working with ReactJS, Next.js, Typescript, Styled-Components and other web technologies
+- 👩🏽‍💻   Currently, I'm studying and working with ReactJS, Next.js, Typescript, Styled-Components and other web technologies
 - 🎯  My goal is to learn and work with mobile development too
-- 📌  I really want to learn about back-end development (especially Node.js) and the basics of UX/UI
+- 📌  In the future, I want to learn about back-end development (especially Node.js) and the basics of UX/UI
 
 
 <div align="center">
