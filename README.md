@@ -1,14 +1,13 @@
 ### Hi! 👋
 
-My name is Thayna and I'm a front-end developer from 🇧🇷
+I'm a developer from 🇧🇷
  
 
 
-- 📚  I started a technologist in System Analysis and Development in 2020
-- 💻  In 2021, I started to study front-end development and now I'm a Javascript lover
-- 👩🏽‍💻   Currently, I'm studying and working with ReactJS, Next.js, Typescript, Styled-Components and other web technologies
-- 🎯  My goal is to learn and work with mobile development too
-- 📌  In the future, I want to learn about back-end development (especially Node.js) and the basics of UX/UI
+- 📚  I graduated in Systems Analysis and Development in 2022
+- 💻  I started working with development in 2021 and since then I've been a Javascript lover
+- 👩🏽‍💻  Currently, I'm working with ReactJS, Next.js, React Native, Typescript, NestJS and other related technologies
+- 🚀 I am enthusiastic about new knowledge and driven by challenges. I'm always willing to learn new languages ​​and venture into the world of programming.
 
 
 <div align="center">
@@ -34,7 +33,7 @@ My name is Thayna and I'm a front-end developer from 🇧🇷
     
     
   <a href="mailto:thaynadosantos.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thaynadsansilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thaynadss" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
  
  
